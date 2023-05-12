@@ -39,7 +39,6 @@ const Services = () => {
           mix-blend-lighten mb-12 lg:mb-0'>
           <h2 className='h2 text-accent mb-6'>Tecnologias De meu conhecimento</h2>
           <h3 className='h3 max-w-[455px] mb-16'>Atuo tanto na plataforma Mobile quanto nas plataformas Desktop e WEB.</h3> 
-          <button className='btn btn-sn'>Veja meus trabalhos</button>
           </motion.div>
           {/* services */}
           <motion.div
