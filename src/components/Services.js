@@ -10,7 +10,7 @@ import {fadeIn} from '../variants';
 const services = [
 
   {
-  name: 'C# + .NET', 
+  name: 'C#', 
 
 },
 {
